@@ -12,32 +12,37 @@ leading to churn risk and missed expansion opportunities.
 - Average seat utilization: 11.47%** - massive optimization opportunity
 - Clear action plan: Consolidate Seats (290), Feature Training (4), Re-engage (6)
 
+**Dataset Overview** : Synthetic dataset simulating realistic B2B SaaS operational data with intentional data quality issues.
+- **Total Records:** ~14,000 rows  
+- **Time Period:** 3 months of event data (July-October 2024)  
+- **Accounts:** 400 raw → 353 after deduplication
+
 **Tech Stack**
-- **Database**: PostgreSQL (via Docker)
-- **Transformation**: dbt Core
-- **Visualization**: Tableau
-- **Data**: 14K+ rows across 4 tables
+- **Database** : PostgreSQL (via Docker)
+- **Transformation** : dbt Core
+- **Visualization** : Tableau
+- **Data** : 14K+ rows across 4 tables
 
 **Project Structure**
+
 ├── data/              # Raw CSV files
+
 ├── zoom_analytics/    # dbt project (staging → intermediate → marts)
+
 ├── dashboard/         # Tableau workbook
+
 └── docs/              # Detailed documentation
 
 **Data Lineage**
 <img width="2416" height="770" alt="image" src="https://github.com/user-attachments/assets/5c14ffb8-d460-41f1-8d88-89ddca6c5a30" />
 
-# 1. Start PostgreSQL
-docker run --name zoom-postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres:14
+**Installation Steps:**
 
-# 2. Install dbt
-pip install dbt-postgres
+ - Start PostgreSQL : docker run --name zoom-postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres:14
+ - Install dbt : pip install dbt-postgres
+ - Run pipeline : cd zoom_analytics dbt run
 
-# 3. Run pipeline
-cd zoom_analytics
-dbt run
 
-See [detailed documentation]for complete setup instructions.
 
 **Results**
 - 353 accounts analyzed
@@ -47,3 +52,5 @@ See [detailed documentation]for complete setup instructions.
 - Actionable insights for 311 at-risk accounts
 
 *Built with Docker, PostgreSQL, dbt, and Tableau*
+
+See [detailed documentation] for complete setup instructions.
