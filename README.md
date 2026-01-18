@@ -1,14 +1,12 @@
 **End-to-End B2B SaaS Analytics (Zoom)**
-End-to-end data pipeline identifying $2.45M in annual churn risk across underutilized B2B SaaS accounts
 
-**Problem Statement**
-Enterprise Zoom customers underutilize advanced features (Webinars, Large Meetings, Breakout Rooms) despite paying for them, 
+**Problem Statement** : Enterprise Zoom customers underutilize advanced features (Webinars, Large Meetings, Breakout Rooms) despite paying for them, 
 leading to churn risk and missed expansion opportunities.
 
-**Proposed Solution**
-An analytics pipeline that cleans messy data, calculates utilization metrics, and provides actionable recommendations for Sales/Customer Success teams.
+**Proposed Solution** : An analytics pipeline that cleans messy data, calculates utilization metrics, and provides actionable recommendations for Sales/Customer Success teams.
 
 **Key Findings**
+
 - $2.45M annual revenue at risk** across 311 accounts (88% of portfolio)
 - 290 accounts need seat consolidation** discussions
 - Average seat utilization: 11.47%** - massive optimization opportunity
