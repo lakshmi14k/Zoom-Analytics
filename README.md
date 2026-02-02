@@ -23,72 +23,40 @@ leading to churn risk and missed expansion opportunities.
 - **Visualization** : Tableau
 - **Data** : 14K+ rows across 4 tables
 
-**Project Structure**
-
+**Project Structure:**
+```
 Zoom-Analytics/
-
-├── Data/
-
+├── Raw/
 │   ├── accounts.csv                    # Account master data (400 accounts)
-
 │   ├── events.csv                      # Meeting/webinar events (14K+ rows)
-
 │   ├── subscriptions.csv               # Subscription plans and features
-
 │   └── users.csv                       # User details per account
-
 │
-
 ├── Models/
-
 │   ├── Staging/                        # Data cleaning and standardization
-
-│   │   ├── stg_accounts.sql           # Account deduplication and validation
-
-│   │   ├── stg_events.sql             # Event type classification
-
-│   │   ├── stg_subscriptions.sql      # Subscription feature parsing
-
-│   │   └── stg_users.sql              # User role standardization
-
-│   │
-
+│   │   ├── stg_accounts.sql
+│   │   ├── stg_events.sql
+│   │   ├── stg_subscriptions.sql
+│   │   └── stg_users.sql
 │   ├── Intermediate/                   # Business logic layer
-
-│   │   ├── int_account_event_usage.sql         # Event aggregations by account
-
-│   │   ├── int_account_subscription_features.sql # Feature availability mapping
-
-│   │   └── int_account_user_summary.sql        # User metrics per account
-
-│   │
-
+│   │   ├── int_account_event_usage.sql
+│   │   ├── int_account_subscription_features.sql
+│   │   └── int_account_user_summary.sql
 │   └── Marts/                          # Analytics-ready data
-
 │       └── fct_account_utilization.sql # Final fact table (39 metrics)
-
 │
-
 ├── Outputs/
-
 │   └── fct_account_utilization.csv     # Final analysis results (353 accounts)
-
 │
-
 ├── Config/
-
 │   └── dbt_project.yml                 # dbt project configuration
-
 │
-
 ├── Docs/
-
-│   └── data_lineage.png                # Data pipeline architecture diagram
-
+│   ├── data_lineage.png                # Data pipeline architecture diagram
+│   └── Key Findings.docx               # Executive summary and recommendations
 │
-
 └── README.md
-
+```
 **Data Lineage**
 <img width="2416" height="770" alt="image" src="https://github.com/user-attachments/assets/5c14ffb8-d460-41f1-8d88-89ddca6c5a30" />
 
