@@ -1,0 +1,38 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Raw data loaded from CSV files"
+    schema: raw
+    tables:
+      - name: accounts
+        description: "Raw accounts data with messy formats"
+        columns:
+          - name: account_id
+            description: "Account identifier (has duplicates and nulls)"
+          
+      - name: users
+        description: "Raw users data"
+        columns:
+          - name: user_id
+            description: "User identifier"
+          - name: account_id
+            description: "Foreign key to accounts"
+          
+      - name: subscriptions
+        description: "Raw subscriptions data"
+        columns:
+          - name: subscription_id
+            description: "Subscription identifier"
+          - name: account_id
+            description: "Foreign key to accounts"
+          
+      - name: events
+        description: "Raw events/meetings data"
+        columns:
+          - name: event_id
+            description: "Event identifier"
+          - name: account_id
+            description: "Foreign key to accounts"
+          - name: user_id
+            description: "Foreign key to users"
