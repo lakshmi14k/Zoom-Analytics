@@ -1,0 +1,416 @@
+account_id,account_name,industry,created_at,account_size
+ACC00056,NextGen Labs,Unknown,06/02/2022,136
+ACC00141,Cloud Works Inc,Tech,2023/08/29,842
+ACC00176,Tech Labs,,11-09-2022,702
+ACC00057,Cloud Works,Retail,NULL,591
+ACC00342,Alpha Partners,Tech,2024-04-24,197
+ACC00297,Alpha Enterprises Inc,finance,07/04/2022,903
+ACC00378,Alpha Dynamics,Health Care,2023-12-19,34
+ACC00233,Digital Dynamics,Healthcare,10/11/2023,173
+ACC00177,Advanced Partners LLC,,01/13/2023,999999
+ACC00328,Cloud Ventures,Unknown,2023/02/07,790
+ACC00397,Innovative Industries,TECHNOLOGY,2024-03-12,193
+ACC00138,Innovative Works,Manufacuring,2023/01/24,23
+ACC00050,Advanced Systems,finance,2022/05/05,595
+ACC00094,Quantum Works,Education,2022/11/13,399
+ACC00078,Quantum Solutions,HealthCare,2023-05-09,36
+ACC00387,Global Systems,Healthcare,2022/01/01,473
+ACC00091,Beta Group LLC,Finance,18-11-2023,902
+ACC00022,Digital Enterprises Inc,RETAIL,07-01-2023,166
+ACC00174,Cloud Systems,MANUFACTURING,31-05-2024,370
+ACC00146,Cloud Ventures,Finance,2023-01-15,15
+ACC00113,Tech Systems LLC,Retail,02/01/2022,497
+ACC00010,Global Systems,Healthcare,2023/05/02,34
+ACC00073,Innovative Systmes,Finance,,48
+ACC00322,Quantum Group,Finance,2023/07/01,141
+ACC00029,Cloud Ventures,Unknown,15-04-2023,31
+ACC00210,Cloud Partners Inc,Technology,NULL,371
+ACC00226,Quantum Labs,RETAIL,2023/06/18,999999
+ACC00083,GLOBAL SOLUTIONS,Manufacuring,2024-04-05,61
+ACC00154,Advanced Systems LLC,Manufacuring,13-02-2024,906
+ACC00219,NextGen Partners,Retail,2022-06-03,76
+ACC00249,NextGen Ventures Inc,Retail,2023-09-18,26
+ACC00031,NextGen Industries LLC,Retail,07/16/2023,31
+ACC00343,Tech Ventures Inc,Manufacuring,2024-01-23,63
+ACC00071,Beta Enterprises,HealthCare,2024/05/18,14
+ACC00133,Premier Dynamics,retail,01-04-2024,16
+ACC00034,Smart Group,Manufacuring,08/14/2022,N/A
+N/A,Advanced Solutons,EDUCATION,2023-07-30,550
+ACC00288,Beta Ventures Inc,Health Care,2023-01-04,11
+ACC00103,Smart Systems,finance,07/11/2022,183
+ACC00224,Premier Dynamics,Edu,2023-12-07,4
+ACC00363,Innovative Industries,Financial Services,2024-04-17,-5
+ACC00016,   Digital Solutions ,Manufacturing,2023-06-28,283
+ACC00117,Cloud Solutions Inc,Manufacuring,,118
+ACC00018,Digital Works Inc,Tech,N/A,
+ACC00020,Global Ventures Inc,Edu,2022/09/15,295
+ACC00011,NextGen Works Inc,Healthcare,2024/03/25,212
+ACC00366,Beta Systems,,2022/06/12,138
+ACC00127,Cloud Partners LLC,Retail,05/03/2023,19
+ACC00273,Cloud Ventures Inc,Manufacturing,2022-06-13,876
+ACC00075,quantum partners inc,Manufacuring,2023/01/26,167
+ACC00077,Beta Partners Llc,Manufacuring,,621
+ACC00352,Premier Industries,Finance,2023/08/12,84
+ACC00095,Premier Labs,HealthCare,2022/05/22,31
+ACC00026,Quantum Works Inc,technology,11/04/2022,535
+ACC00040,   Global Works,MANUFACTURING,2022/02/24,53
+ACC00290,Digital Partners,technology,2023-05-31,726
+ACC00275,Smart Labs,MANUFACTURING,2024-05-05,108
+ACC00204,Digital Industries,Health Care,2023-08-30,568
+ACC00111,Innovative Group,EDUCATION,2022/11/27,34
+ACC00300,NextGen Labs Inc,MANUFACTURING,10/27/2023,492
+ACC00043,NextGen Ventures LLC,EDUCATION,04-05-2022,188
+ACC00045,Beta Dynamics LLC,,2023-08-29,317
+ACC00080,Cloud Solutions Inc,TECHNOLOGY,2022-08-09,91
+ACC00040,Cloud Partners,Edu,06-07-2023,119
+ACC00357,Cloud Systems,Health Care,2023-02-03,49
+ACC00325,NEXTGEN VENTURES,Edu,2023-08-20,127
+ACC00262,Premier Partners LLC,Health Care,03/02/2024,5
+ACC00371,Tech Works,finance,2023-07-13,9
+NULL,Advanced Works LLC,Education,2023-04-17,434
+ACC00047,Advanced Labs,HealthCare,28-09-2022,12
+ACC00230,Smart Ventures,TECHNOLOGY,17-08-2022,135
+ACC00119,cloud dynamics llc,retail,02-06-2022,134
+ACC00085,Digital Group,Finance,2024-03-08,80
+ACC00079,Advanced Ventures,Technology,2023/11/05,97
+ACC00058,Innovative Partners,technology,2023-03-27,216
+ACC00111,Innovative Group,EDUCATION,2022/11/27,34
+ACC00039,Advanced Enterprises,finance,2022-07-14,202
+ACC00018,Smart Partners LLC,technology,08/07/2022,23
+ACC00235,Smart Dynamics Inc,Manufacturing,2023/12/05,176
+ACC00338,Premier Ventures LLC,Healthcare,2023/12/24,641
+ACC00032,Smart Ventures,Education,2022/11/24,10
+ACC00285,NextGen Partners Inc,Unknown,08/24/2022,366
+ACC00166,Smart Enterprises,RETAIL,2023-04-09,N/A
+ACC00250,Cloud Systems,RETAIL,2023/08/27,999999
+ACC00365,CLOUD PARTNERS,EDUCATION,09/11/2023,154
+ACC00194,Tech Enterprises LLC,Manufacturing,03/06/2023,10
+ACC00153,Alpha Partners LLC,Unknown,,14
+ACC00006,Beta Partners Inc,Retail,2023-02-13,342
+ACC00046,alpha solutions llc,Retail,20-03-2024,590
+ACC00023,ALPHA GROUP LLC,Unknown,2022-02-01,
+ACC00313,Beta Labs LLC,N/A,2022-01-16,81
+ACC00125,Quantum Labs LLC,Financial Services,2024-04-03,-5
+ACC00384,BETA SYSTEMS,MANUFACTURING,2022/07/09,460
+ACC00114,Beta Group Inc,HealthCare,2022-05-28,952
+ACC00298,Digital Ventures,Technology,2023-05-27,846
+ACC00004,Digital Systems Inc,Unknown,01-12-2023,376
+ACC00019,Innovative Partners,N/A,2023/11/15,77
+ACC00197,Premier Enterprises,EDUCATION,2024-05-22,44
+ACC00061,Tech Enterprises,Manufacturing,30-11-2023,6
+ACC00193,Smart Industries Inc,Manufacuring,2022-09-09,225
+ACC00023,Beta Group,finance,07/05/2023,508
+ACC00064,Quantum Solutions,Education,2022-12-27,17
+ACC00263,Beta Group,Retail,15-03-2022,30
+ACC00327,Cloud Enterprises,Education,19-05-2024,50
+ACC00196,Smart Enterprises,RETAIL,2022/03/18,50
+ACC00178,Beta Enterprises,HealthCare,2022/11/27,198
+ACC00212,Advanced Dynamics,,10-05-2023,93
+ACC00391,Quantum Industries Inc,RETAIL,2022-01-17,
+ACC00254,Alpha Industries,Manufacuring,05/17/2024,
+ACC00156,ADVANCED DYNAMICS,,2022-10-02,850
+ACC00356,   NextGen Enterprises ,MANUFACTURING,11/20/2022,37
+ACC00239,Cloud Group Inc,Finance,14-01-2022,788
+ACC00109,quantum dynamics,retail,,192
+,Tech Works,Manufacuring,07-02-2022,23
+ACC00195,NextGen Group,technology,2023/10/15,999999
+ACC00030,Tech Systems,RETAIL,N/A,325
+,Premier Works LLC,,2022-02-20,
+ACC00388,Tech Ventures,TECHNOLOGY,2022-01-04,999
+ACC00269,  Cloud Dynamics ,retail,24-09-2023,357
+ACC00115,Cloud Ventures,Education,2022-02-21,158
+ACC00238,Smart Industries,,27-04-2022,102
+ACC00076,Global Ventures,Finance,02/13/2023,28
+ACC00354,Advanced Group Inc,,2024-03-20,191
+ACC00132,Beta Systems,,2023-12-08,503
+ACC00016,  Advanced Systems ,Unknown,2023-06-20,131
+ACC00067,Digital Group,Technology,05/07/2022,889
+ACC00315,Quantum Ventures,N/A,2024/04/04,222
+ACC00008,Beta Enterprises Inc,Edu,2024-02-20,841
+ACC00341,  cloud dynamics ,Retail,2023/11/19,268
+ACC00149,Digitl Systems,,11/07/2023,36
+ACC00010,Beta Dynamics,HealthCare,2022-11-21,896
+ACC00306,NextGen Labs,EDUCATION,2022-09-24,34
+ACC00245,  Beta Group LLC,retail,2022-06-19,112
+ACC00398,Global Industries LLC,Unknown,2022-02-24,902
+ACC00276,Premier Partners,Education,2023-10-21,11
+ACC00026, Quantum Partners,TECHNOLOGY,11/28/2023,50
+ACC00173,NextGen Enterprises,HealthCare,15-04-2022,454
+ACC00185,Teck Works,Technology,2022-11-21,783
+ACC00367,Advanced Industries,TECHNOLOGY,12/30/2023,169
+ACC00308,BETA GROUP,,2023-12-03,745
+ACC00021,Alpha Group,Technology,2022/06/25,907
+ACC00267,Tech Industries,Financial Services,2023/10/24,12
+ACC00158,Cloud Group Inc,Education,23-06-2022,18
+ACC00075,quantum partners inc,Manufacuring,2023/01/26,167
+ACC00392,NextGen Partners,Education,07-02-2022,55
+ACC00120,Alpha Labs,MANUFACTURING,2024-04-15,79
+ACC00211,NextGen Group Inc,Health Care,2024/03/29,132
+ACC00031,Smart Enterprises LLC,,2022-08-22,654
+ACC00374,Alpha Enterprises Inc,,18-01-2024,969
+ACC00286,NextGen Industries,Technology,2024-04-23,646
+ACC00182,Global Systems Inc,Healthcare,2023-11-25,53
+ACC00014,NextGen Systems Inc,MANUFACTURING,07/03/2022,78
+ACC00037,  Beta Solutions  ,Healthcare,04/28/2022,45
+ACC00140,Tech Group,Healthcare,2022-10-24,790
+ACC00305,Premier Partners,,08/29/2023,852
+ACC00169,Smart Partners,MANUFACTURING,2022/12/27,890
+ACC00334,QUANTUM INDUSTRIES INC,Unknown,2022-04-21,865
+ACC00299,Smart Labs,Tech,09/18/2022,661
+ACC00060,Premier Ventures Inc,TECHNOLOGY,11-04-2022,303
+ACC00112,BETA VENTURES LLC,MANUFACTURING,06-11-2023,546
+ACC00229,Quantum Works,Financial Services,2024-05-15,772
+ACC00224,Premier Dynamics,Edu,2023-12-07,4
+ACC00008,innovative dynamics,Manufacturing,2023/07/21,47
+ACC00323,Cloud Group,MANUFACTURING,20-01-2023,461
+ACC00287,Alpha Solutions,EDUCATION,2023-09-04,380
+ACC00028,Smart Group LLC,retail,07/20/2022,1
+ACC00151,Global Enterprises,EDUCATION,2024-05-18,866
+ACC00011,NextGen Works,Manufacturing,2022-09-11,192
+ACC00209,Alpha Works,TECHNOLOGY,2022-11-24,291
+ACC00104,Advanced Industries,Finance,11/10/2022,371
+ACC00082,Global Labs,Education,2023-09-06,14
+ACC00223, alpha solutions llc,HealthCare,04/23/2024,82
+N/A,Premier Ventures,Unknown,02/24/2023,207
+,Premier Industries,,03/06/2022,750
+ACC00390,NextGen Solutions,technology,01/03/2023,649
+ACC00240,NextGen Systmes,EDUCATION,2022-02-21,3
+ACC00259,Beta Industries,TECHNOLOGY,11/22/2022,0
+ACC00199,Innovative Systems Llc,N/A,03/28/2022,
+ACC00181,Tech Works,Technology,,633
+ACC00090,Tech Enterprises Inc,Unknown,2023/09/10,200
+ACC00333,NextGen Ventures,,2022-01-19,
+ACC00164,Digital Enterprises LLC,Finance,2023-03-17,15
+ACC00148,Cloud Dynamics LLC,Tech,2024/05/09,
+ACC00248,Premier Enterprises,,10-04-2022,22
+ACC00093,NextGen Solutions,Healthcare,01-05-2024,370
+ACC00070,Innovative Group,Edu,,29
+ACC00124,Premier Works,EDUCATION,2023-12-23,525
+ACC00097,Advanced Systems Inc,Healthcare,2022/10/21,86
+ACC00144,Smart Group,MANUFACTURING,2023-07-27,22
+ACC00317,Smart Ventures Inc,Technology,08-01-2023,0
+ACC00098,Global Solutions LLC,technology,2022-09-01,27
+ACC00251,Alpha Partners,Health Care,2022-05-12,821
+ACC00069,Innovative Solutions,Manufacuring,2023-04-10,914
+ACC00024,Smart Systems,Manufacuring,2022-01-29,383
+ACC00038,Quantum Systems,EDUCATION,2023-01-20,278
+ACC00145,Digital Systems,,09/03/2022,590
+ACC00123,NextGen Enterprises,RETAIL,12/17/2022,939
+ACC00368,Smart Group Inc,retail,2022-03-04,795
+ACC00183,Digital Dynamics,technology,05/07/2022,160
+ACC00068,Cloud Systems,Finance,15-08-2022,676
+ACC00203,Cloud Industries Llc,MANUFACTURING,2022-06-13,473
+ACC00246,NextGen Group,RETAIL,05/26/2023,32
+ACC00232,Cloud Group,,03/24/2022,382
+ACC00278,NextGen Solutions,Manufacturing,2023/09/06,937
+ACC00038,Quantum Systems,EDUCATION,2023-01-20,278
+ACC00212,Advanced Dynamics,,10-05-2023,93
+ACC00126,Digital Works,technology,2023-08-24,34
+N/A,Smart Dynamics Inc,Unknown,2024/02/21,858
+ACC00256,NextGen Group LLC,finance,2024/03/18,999999
+ACC00087,Alpha Industries LLC,N/A,10/09/2022,69
+ACC00350,Quantum Industries,Financial Services,06-04-2022,148
+ACC00330,NextGen Industries,Retail,2023-08-13,634
+ACC00351,Global Labs,Retail,2023-12-14,37
+ACC00292,Digital Works,,2022-09-12,
+ACC00339,alpha dynamics llc,Technology,2023/02/28,121
+ACC00376,Quantum Enterprises,Tech,04-09-2023,778
+ACC00184,Global Works,,,39
+ACC00220,Smart Ventures,MANUFACTURING,2022-02-08,N/A
+ACC00335,Quantum Systems,HealthCare,04/14/2023,241
+ACC00228,tech industries,EDUCATION,03/05/2023,798
+ACC00295,Smart Partners LLC,Healthcare,NULL,N/A
+ACC00130,Beta Labs,Unknown,29-06-2022,616
+ACC00039,Quantum Labs,Financial Services,2023-11-09,-5
+ACC00041,Tech Works Inc,retail,16-05-2022,791
+ACC00282,Tech Ventures,Financial Services,2024/01/30,790
+ACC00186,premier systems inc,Manufacturing,12/31/2023,153
+ACC00362,   Cloud Labs LLC ,Manufacuring,2022-05-14,252
+ACC00113,Tech Systems LLC,Retail,02/01/2022,497
+ACC00180,Smart Systems,Health Care,,974
+ACC00047,digital labs,TECHNOLOGY,04/30/2023,26
+ACC00281,Alpha Solutions,Unknown,09/10/2023,50
+ACC00272,Digital Solutions,Healthcare,2022/08/17,125
+ACC00118,   Advanced Solutions ,Manufacuring,01-10-2023,7
+ACC00007,NextGen Systems,Tech,,39
+ACC00389,Cloud Enterprises,TECHNOLOGY,2024/05/23,30
+,Global Works,Unknown,24-08-2022,76
+ACC00300,NextGen Labs Inc,MANUFACTURING,10/27/2023,492
+,Quantum Enterprises,Technology,04-10-2023,23
+ACC00377, Alpha Solutions  ,Healthcare,21-05-2024,122
+ACC00394,Digital Group LLC,Unknown,2022-05-21,419
+ACC00165,Alpha Works,Manufacturing,01/26/2022,72
+ACC00361,Digital Enterprises Inc,Edu,2022-10-08,774
+ACC00137,Advanced Enterprises,finance,2023/11/09,23
+ACC00155,Tech Systems,,2024-03-03,662
+ACC00200, Innovative Systems  ,Health Care,2023/03/20,58
+ACC00198, Digital Enterprises LLC ,Health Care,NULL,770
+ACC00249,NextGen Ventures Inc,Retail,2023-09-18,26
+ACC00003, Cloud Industries Inc,,01/06/2023,247
+ACC00233,Digital Dynamics,Healthcare,10/11/2023,173
+NULL,Alpha Industries LLC,Manufacuring,2023-05-18,39
+ACC00116,Cloud Industries,RETAIL,11/12/2022,26
+ACC00291,Alpha Labs,Finance,15-04-2023,229
+ACC00032,Global Solutions LLC,,03/02/2024,10
+ACC00027,Advanced Group,Manufacuring,2022-11-08,199
+ACC00121,Quantum Solutions,MANUFACTURING,2024-01-09,185
+ACC00193,Smart Industries Inc,Manufacuring,2022-09-09,225
+ACC00225,   Digital Works  ,retail,2023-10-25,430
+ACC00336,Advanced Dynamics LLC,Manufacturing,05-03-2022,231
+ACC00279,Digital Partners,Retail,03/24/2024,839
+ACC00128,Global Industries Llc,Health Care,2022/02/07,177
+ACC00395,Global Labs Inc,MANUFACTURING,,848
+ACC00108,Innovative Systems,Unknown,24-11-2022,764
+ACC00347,Innovative Dynamics,RETAIL,2022-07-05,N/A
+ACC00134,NextGen Partners,Manufacuring,07/27/2022,21
+ACC00358,Smart Group LLC,Manufacturing,2022-04-25,13
+ACC00019,quantum dynamics,retail,2022/07/08,173
+ACC00382,Beta Industries LLC,HealthCare,25-11-2023,
+ACC00066,Cloud Ventures,retail,30-10-2022,80
+ACC00086,Cloud Dynamics Inc,N/A,02-03-2024,195
+ACC00243,ALPHA PARTNERS INC,Healthcare,2023-05-15,999999
+ACC00187,Smart Systems LLC,finance,2024/02/21,268
+ACC00160,Cloud Partners LLC,Finance,2023-12-13,152
+ACC00013,Digital Systems Inc,Unknown,2023-10-24,137
+ACC00036,Cloud Works,Retail,03/25/2022,254
+ACC00029,Digital Works Inc,RETAIL,10/07/2023,594
+ACC00171,Cloud Partners,HealthCare,07/30/2023,176
+ACC00143,Tech Ventures,Edu,2023-10-25,145
+ACC00332,Global Systems,EDUCATION,,
+ACC00284,Innovative Group,Financial Services,2023-11-28,36
+ACC00222,Alpha Systems Inc,Financial Services,12-06-2023,46
+ACC00096,NextGen Systems LLC,Retail,2022/08/16,228
+ACC00052,Global Dynamics LLC,Manufacuring,,133
+ACC00241,Advanced Systems LLC,Financial Services,2023-09-29,582
+ACC00312,Tech Works,retail,2022/11/16,0
+ACC00318,Beta Partners,Finance,20-06-2023,9
+ACC00179,Beta Solutions Llc,RETAIL,NULL,45
+ACC00042,Digital Group,retail,2022-01-18,45
+ACC00324,Tech Solutions,EDUCATION,N/A,999999
+ACC00207,Advanced Industries Inc,N/A,2023-10-27,776
+ACC00283,Digital Systems LLC,Technology,05/01/2022,103
+ACC00018,Innovative Labs,Manufacuring,NULL,44
+ACC00030,Smart Group,TECHNOLOGY,2022-03-05,66
+ACC00005,Smart Ventures Inc,finance,2022/08/05,131
+ACC00257,Premier Works,Manufacuring,21-07-2022,502
+ACC00372,ADVANCED DYNAMICS LLC,retail,2022-05-20,626
+ACC00101,Innovative Solutions Inc,,2022/07/06,50
+ACC00227,nextgen industries,N/A,2022-10-11,868
+NULL,cloud group,Finance,2023/05/06,862
+ACC00214,  Advanced Systems LLC,EDUCATION,2023/04/30,152
+ACC00172,Global Industries LLC,Health Care,03-08-2023,763
+ACC00032,ALPHA VENTURES LLC,Education,11-07-2022,0
+ACC00293,Alpha Labs LLC,Education,2022-09-29,16
+ACC00216,NextGen Group,Manufacturing,03-07-2023,787
+ACC00062, Premier Industries Inc ,Unknown,03/17/2022,127
+ACC00048,Quantum Industries,RETAIL,2022/08/28,841
+ACC00033,Global Group,Retail,02/28/2024,984
+ACC00268,Innovative Industries,RETAIL,2022-03-16,7
+ACC00201,Innovative Labs LLC,EDUCATION,07/18/2023,25
+ACC00370,Cloud Systems,EDUCATION,2023/07/17,36
+ACC00028,Beta Works,Unknown,12-06-2023,296
+ACC00326,Quantum Systems,,2024/04/19,0
+ACC00231,Global Partners LLC,HealthCare,2023-11-29,64
+ACC00261,Beta Industries,technology,08-07-2023,34
+ACC00289,Beta Group,Manufacuring,04/29/2024,139
+ACC00163,Premier Industries,,07-02-2022,188
+ACC00353,Premier Partners,HealthCare,,81
+ACC00139,Global Solutions,Technology,2022-03-10,39
+ACC00063,smart works,EDUCATION,2022-10-30,606
+ACC00136,  Quantum Works  ,retail,NULL,9
+ACC00129,Smart Solutions LLC,Manufacuring,2022/05/18,100
+ACC00009,Innovative Enterprises,Technology,2023-05-16,515
+ACC00065,Innovative Systems,MANUFACTURING,2022-05-15,157
+ACC00301,Quantum Partners,Healthcare,2023/10/18,197
+ACC00015,digital group,RETAIL,2023/12/15,770
+ACC00157,Global Solutions,TECHNOLOGY,04/05/2023,N/A
+ACC00041, Smart Partners Inc  ,retail,2024-03-27,121
+ACC00381,   Premier Group,Financial Services,19-03-2023,480
+ACC00337,Cloud Group,,2023-12-04,10
+ACC00046,Tech Ventures,Healthcare,02/15/2024,372
+ACC00280,Cloud Partners,Technology,2024/05/30,354
+ACC00031,NextGen Dynamics LLC,Healthcare,2022/04/11,893
+ACC00004,Beta Systems,Manufacuring,2023-12-20,-5
+ACC00208,Digital Industries,Health Care,2023/12/20,0
+ACC00022,Digital Works,Unknown,2022-09-01,191
+ACC00296,Innovative Partners,Technology,01/24/2023,117
+ACC00379,Innovative Industries,finance,27-03-2023,37
+ACC00252,Alpha Works LLC,Retail,02/06/2024,761
+ACC00242,Premier Labs,Health Care,14-12-2023,364
+ACC00380,Global Solutions Inc,Manufacuring,01-12-2023,88
+ACC00304,Alpha Dynamics LLC,RETAIL,05/15/2022,3
+ACC00270,Advanced Dynamics Inc,Financial Services,2024-01-21,165
+ACC00202,NextGen Works,,12-07-2023,195
+ACC00162,Premier Works,Retail,23-05-2022,43
+ACC00044,Quantum Partners LLC,HealthCare,2023-01-05,35
+ACC00218,Advanced Systems,,2024/01/15,25
+,Premier Enterprises Inc,,2023-03-06,47
+ACC00310,Premier Solutions Inc,retail,20-04-2023,6
+ACC00260,Advanced Systems LLC,,2023/07/29,210
+ACC00106,Cloud Group,Financial Services,2024-02-21,24
+ACC00054, Beta Industries  ,Education,04/27/2022,10
+ACC00002,Advanced Works,Health Care,2022-12-15,49
+ACC00050,NEXTGEN VENTURES,Edu,N/A,790
+ACC00081,Alpha Industries Inc,Edu,03/11/2023,120
+ACC00040,  Digital Dynamics Inc,,2024-03-03,144
+ACC00035,Quantum Dynamics,finance,2023-11-10,339
+,Tech Dynamics,Edu,07-04-2023,55
+ACC00092,NextGen Enterprises Inc,HealthCare,2022-05-21,76
+ACC00340,Tech Industries,Education,2023-01-03,338
+ACC00053,Tech Ventures,RETAIL,2022-07-28,19
+ACC00346,Premier Enterprises LLC,Health Care,2023-01-25,22
+ACC00047,   Alpha Systems  ,EDUCATION,05-11-2022,163
+ACC00242,Premier Labs,Health Care,14-12-2023,364
+ACC00014,   NextGen Partners Inc  ,Tech,2023/07/08,972
+ACC00316,Tech Partners,MANUFACTURING,2022-12-23,192
+ACC00007,Cloud Systems,RETAIL,2023-09-17,123
+ACC00274,cloud solutons inc,Financial Services,2023/04/11,42
+ACC00167,Innovative Works,RETAIL,19-02-2023,43
+ACC00329,advanced dynamics inc,Manufacturing,2023-12-16,36
+ACC00028,Beta Works,Unknown,12-06-2023,296
+ACC00135,  Quantum Industries,Retail,03/01/2022,516
+ACC00307, Premier Ventures LLC ,,01/08/2022,36
+ACC00399,Innovative Solutions Inc,RETAIL,,381
+ACC00320,Global Partners,Financial Services,2022/03/01,61
+ACC00244,Beta Ventures,Unknown,06/16/2023,298
+ACC00055,Smart Group,finance,09/06/2023,272
+ACC00364,Quantum Partners Inc,Education,2023-09-24,97
+NULL,Alpha Solutions,Edu,08/23/2023,294
+ACC00175,Tech Industries Inc,EDUCATION,05/28/2024,298
+ACC00190,NextGen Enterprises LLC,MANUFACTURING,2022-04-29,62
+ACC00313,Beta Labs LLC,N/A,2022-01-16,81
+ACC00188,Digitl Solutions LLC,Health Care,2023-12-26,32
+ACC00170,golbal dynamics inc,MANUFACTURING,07/10/2022,95
+ACC00059,Innovative Systems,N/A,2022/12/03,590
+ACC00049,global ventures inc,,2023/08/06,170
+ACC00345,Innovative Group,,2023-04-11,92
+ACC00236,Advanced Solutions LLC,Health Care,30-12-2023,41
+ACC00253,Beta Works LLC,,07/02/2022,531
+ACC00022,Tech Enterprises Inc,,2022/08/31,382
+ACC00314,Alpha Partners,retail,2023-09-26,978
+ACC00161,Premier Industries,Financial Services,2023-08-01,385
+ACC00277,Digital Group,HealthCare,2023/10/25,3
+ACC00192, Golbal Ventures  ,RETAIL,2024/03/03,192
+ACC00386,Global Partners,technology,02/27/2024,309
+ACC00294,Global Systems,Manufacuring,05/18/2024,705
+ACC00344,Smart Partners Inc,RETAIL,2023-04-08,97
+ACC00012,Quantum Ventures Inc,Edu,NULL,N/A
+ACC00309,Innovative Dynamics LLC,HealthCare,2022-06-05,98
+NULL,NextGen Labs LLC,technology,2023-06-21,34
+ACC00131,Beta Systems Inc,Education,2022/10/01,999999
+ACC00152,NextGen Partners Inc,Finance,2024/05/28,244
+ACC00025,Quantum Ventures Inc,Finance,2022-02-17,964
+ACC00100,NextGen Ventures LLC,Technology,2022-03-11,844
+ACC00373,Advanced Industries LLC,Health Care,01/08/2022,443
+ACC00019,Global Systems,Tech,04/09/2024,39
+ACC00331,Beta Solutions,RETAIL,2023-03-28,405
+ACC00215, Beta Ventures Inc ,Edu,10/03/2022,45
+ACC00122,innovative works llc,,29-05-2023,954
+ACC00092,NextGen Enterprises Inc,HealthCare,2022-05-21,76
+ACC00022,Innovative Labs Inc,,2023-07-13,192
+ACC00189,Quantum Labs Inc,Technology,2023-03-16,46
+ACC00022,Digital Dynamics,MANUFACTURING,2022-08-27,
+ACC00107,Global Solutions,Edu,12/22/2023,493
+ACC00271,Innovative Industries Inc,N/A,2022/03/19,0
+ACC00349,Nextgen Works Inc,,2022-03-31,96
+ACC00103,Smart Systems,finance,07/11/2022,183
