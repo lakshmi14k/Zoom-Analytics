@@ -1,5 +1,0 @@
-*.sql linguist-language=SQL
-   *.py linguist-language=Python
-   *.yml linguist-language=YAML
-   *.md linguist-documentation
-   *.csv linguist-generated
