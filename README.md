@@ -75,6 +75,6 @@ Zoom-Analytics/
 - 1 mart model (39 metrics)
 - Actionable insights for 311 at-risk accounts
 
-*Built with Docker, PostgreSQL, dbt, and Tableau*
+***Built with Docker, PostgreSQL, dbt, and Tableau***
 
 See [detailed documentation] for complete setup instructions.
